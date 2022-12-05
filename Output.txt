@@ -1,0 +1,29 @@
+
+***************************
+Module:  Java 
+Batch: B1  
+Faculty: akash 
+RoomNo: 11111 
+Start Time: 10 
+End Time: 11
+***************************
+Module:  oops 
+Batch: B2  
+Faculty: aj 
+RoomNo: 12122 
+Start Time: 11 
+End Time: 12
+***************************
+Module:  Maths 
+Batch: B2  
+Faculty: Om 
+RoomNo: 11112 
+Start Time: 10 
+End Time: 11
+***************************
+Module:  OS 
+Batch: B4  
+Faculty: aman 
+RoomNo: 9001 
+Start Time: 10 
+End Time: 11
