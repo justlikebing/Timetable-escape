@@ -14,7 +14,7 @@ import static MinorP1.TextFiles.*;
 
 //import java.io.FileNotFoundException;
 //import java.io.File;
-public class Main4 {
+public class TimeTableMain {
 //    private  static Formatter fm;
 //    private static File file;
 //    static BufferedWriter output;
