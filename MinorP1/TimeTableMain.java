@@ -1,5 +1,4 @@
-package MinorP1;
-//import java.io.*;
+package MinorP1
 import org.w3c.dom.ls.LSOutput;
 
 import java.io.BufferedWriter;
