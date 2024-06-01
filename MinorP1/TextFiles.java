@@ -1,5 +1,4 @@
 package MinorP1;
-
 import java.io.*;
 import java.util.Formatter;
 import java.util.HashMap;
