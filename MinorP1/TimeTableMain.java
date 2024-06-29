@@ -10,7 +10,6 @@ import java.util.Hashtable;
 import java.util.Scanner;
 
 import static MinorP1.TextFiles.*;
-
 //import java.io.FileNotFoundException;
 //import java.io.File;
 public class TimeTableMain {
