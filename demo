@@ -72,6 +72,7 @@ public class Main4 {
             System.out.println();
         }
     }
+
     // DELETION FUNCTION
     //this function is used to delete the classes we dont want to have for the day
     public static void deletion() {
