@@ -36,6 +36,7 @@ public class Main4 {
         }
     }
     // INPUT DEFAULT TIMETABLE
+
     public static void input() {
         for (int i = 0; i < 2; i++) {      // Maximum class one individual may have is 10 in a day. (Let's Assume)
             System.out.println("Enter Module name: ");
